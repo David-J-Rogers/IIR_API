@@ -1,4 +1,4 @@
-# Azure Function: Get Event by ID
+# Get Event by ID
 
 This project is an Azure Functions application that queries an external API to retrieve details about events based on their ID.
 
